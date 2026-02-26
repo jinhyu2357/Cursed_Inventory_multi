@@ -1,0 +1,4 @@
+name: Cursed_Inventory
+version: '1.0'
+main: org.example.jinhhyu.cursed_Inventory.Cursed_Inventory
+api-version: '1.21'
