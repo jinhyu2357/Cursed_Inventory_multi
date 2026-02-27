@@ -4,7 +4,7 @@
 
 ## 참고한 자료 (YouTube)
 
-[![YouTube Playlist](https://img.youtube.com/vi/VIDEO_ID/hqdefault.jpg)](https://www.youtube.com/playlist?list=PLAfXl9hcOzqDS-7l76dcBPzkM8hQ_aUm6)
+[![불편한 동거](https://img.youtube.com/vi/VIDEO_ID/hqdefault.jpg)](https://www.youtube.com/playlist?list=PLAfXl9hcOzqDS-7l76dcBPzkM8hQ_aUm6)
 
 ## 주요 기능
 
