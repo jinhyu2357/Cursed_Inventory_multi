@@ -2,6 +2,10 @@
 
 `Cursed_Inventory`는 Paper 1.21 서버용 플러그인으로, **인벤토리 슬롯 잠금/해금 상태와 아이템 상태를 서버 접속자 전체가 공유**하도록 만드는 협동형 진행 플러그인입니다.
 
+## 참고한 자료 (YouTube)
+
+[![YouTube Playlist](https://img.youtube.com/vi/VIDEO_ID/hqdefault.jpg)](https://www.youtube.com/playlist?list=PLAfXl9hcOzqDS-7l76dcBPzkM8hQ_aUm6)
+
 ## 주요 기능
 
 - **공유 인벤토리 진행도**
